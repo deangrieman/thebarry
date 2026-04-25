@@ -27,8 +27,8 @@ data = load_data()
 
 
 st.set_page_config(page_title="Golf Tournament Tracker", layout="wide")
-st.title("🏌️ Golf Tournament Tracker")
-st.markdown("Track multiple rounds, **skins**, and **putts** for your group.")
+st.title("🏌️ The Barry Golf Tournament Tracker")
+st.markdown("Track multiple rounds, **skins** for your group.")
 
 
 # Sidebar setup
